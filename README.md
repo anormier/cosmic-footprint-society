@@ -1,2 +1,3 @@
 # Cosmic Footprint Society
-# CFS – bootstrap
+
+This repository contains a minimal static site consisting of a single HTML page displaying a greeting.
