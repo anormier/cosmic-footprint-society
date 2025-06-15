@@ -1,6 +1,6 @@
 # Cosmic Footprint Society
 
-Minimal Next.js + Tailwind prototype.
+Minimal Next.js + Tailwind prototype. Includes a simple navigation bar with an About page.
 
 ## Development
 
